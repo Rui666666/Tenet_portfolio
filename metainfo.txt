@@ -1,0 +1,14 @@
+
+Name of Quantlet: TENET portfolio
+
+Published in: 'SSRN'
+
+Description: 'Tail event driven portfolio construction.'
+
+Keywords: 'portfolio construction, tail risks'
+
+Author: 'Rui REN'
+
+See also: ''
+
+Submitted:  '16.01.2021'
